@@ -1,0 +1,76 @@
+{
+    "phrases": {
+        "dashboard": {
+            "tabs": {
+                "general": {
+                    "name": "General",
+                    
+                    "online": {
+                        "title": "Online",
+                        "data": ":online:/:max:"
+                    },
+                    "totalMoney": {
+                        "title": "Total money"
+                    },
+                    "jobDistribution": {
+                        "title": "Job distribution"
+                    },
+                    "richestPlayer": {
+                        "title": "Richest player",
+                        "economy": ":percentage:% of economy"
+                    }
+                },
+                "economy": {
+                    "name": "Economy graph",
+                    "noData": "No Data",
+                    "days": [
+                        "Today",
+                        "1 day ago",
+                        "2 days ago",
+                        "3 days ago",
+                        "4 days ago",
+                        "5 days ago",
+                        "6 days ago"
+                    ]
+                }
+            },
+            "favouriteJobs": {
+                "title": "Favourite jobs",
+                "none": "No favourite jobs"
+            },
+            "onlineStaff": {
+                "title": "Online Staff",
+                "none": "No online staff"
+            }
+        },
+       
+        "items": {
+            "tabs": {
+                "entities": "ENTITIES",
+                "weapons": "WEAPONS",
+                "shipments": "SHIPMENTS",
+                "ammo": "AMMO",
+                "vehicles": "VEHICLES",
+                "food": "FOOD"
+            },
+            "food": {
+                "categoryName": "Food"
+            },
+            "vehicles": {
+                "categoryName": "Vehicles"  
+            },
+            "top": {
+                "search": "Search by name",
+                "sort": {
+                    "default": "Default sort",
+                    "alphabetically": "Alphabetically",
+                    "highestPrice": "Highest price",
+                    "lowestPrice": "Lowest price"
+                },
+                "showFavourite": "Show favourite"
+            },
+            "favourites": "Favourites"
+        }
+      
+    }
+}
